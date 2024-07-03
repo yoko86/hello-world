@@ -3,7 +3,7 @@ git config --global user.name "XXXX"　\\名前を入力
 git config --global user.email "XXXX"　\\メールアドレスを入力  
 
 # ローカルにリポジトリを作成してリモートにプッシュ
-*リポジトリとは、コードやファイルを保存して共同作業できる場所
+*リポジトリとは、コードやファイルを保存して共同作業できる場所  
 git init  
 git add .  
 git commit -m "Initial commit"  
