@@ -1,6 +1,6 @@
 # 初期設定
-git config --global user.name "XXXX"　\\名前を入力　\n
-git config --global user.email "XXXX"　\\メールアドレスを入力 \n
+git config --global user.name "XXXX"　\\名前を入力  
+git config --global user.email "XXXX"　\\メールアドレスを入力  
 
 # ローカルにリポジトリを作成してリモートにプッシュ
 git init\n
