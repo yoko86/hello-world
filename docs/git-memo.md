@@ -25,7 +25,7 @@ gitとは、元々オープンソフトウェア管理のためのソフトウ�
 git add を取り消したいときに実行する。後ろにファイル名を書かなければ全ファイルの取り消しになる。
 ##### git commit -m "massage"
 ローカルリポジトリにコミットを行う。
-#### git pusu -u origin (branch name)
+##### git pusu -u origin (branch name)
 コミットしたファイルをローカルリポジトリからリモートリポジトリにプッシュする。
-#### git pull origin (branch name)
+##### git pull origin (branch name)
 リモートリポジトリから最新のコードを取得してワークツリーに反映
